@@ -1,0 +1,235 @@
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form10.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form11.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form12.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form5.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form6.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form7.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form8.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Form9.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\stud311a\Desktop\Veles last update\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form10.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form11.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form12.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form5.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form6.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form7.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form8.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form9.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update123\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form10.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form11.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form12.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form5.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form6.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form7.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form8.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Form9.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles last update1234\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form10.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form11.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form12.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form5.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form6.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form7.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form8.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form9.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update12345\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\bin\Debug\Заправка.mdb
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form10.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form11.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form12.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form3.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form4.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form5.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form6.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form7.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form8.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Form9.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\stud311a\Desktop\Veles last update123456\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles last update123 — копия\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\stud311a\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\stud311a\Desktop\Veles новая версия (последняя тест)\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles новая версия (последняя тест) сегодня — копия\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Debug\Veles.csproj.ResolveComReference.cache
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\bin\Debug\Veles.exe.config
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.csproj.ResolveComReference.cache
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\bin\Debug\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\bin\Debug\Veles.exe
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\bin\Debug\Veles.pdb
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Projects - C#\Veles копия\Veles\Veles\obj\Debug\Veles.csproj.GenerateResource.Cache

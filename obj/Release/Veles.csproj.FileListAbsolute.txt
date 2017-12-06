@@ -1,0 +1,13 @@
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Release\Veles.exe.config
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Release\Заправка1.accdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Release\Veles.exe
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\bin\Release\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.Form1.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.Form13.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.Form14.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.Form2.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.exe
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.pdb
+C:\Users\Bolivar\Desktop\Veles тестовая\Veles\Veles\obj\Release\Veles.csprojResolveAssemblyReference.cache
